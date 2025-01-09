@@ -102,9 +102,9 @@ Entre em contato para dúvidas ou suporte: victorsantos.ft18@gmail.com.
 
 ## :rocket: Previsão de Próximas Atualizações
 
-0.2.0: Criação de screens de aviso de criação e exclusão de tarefas
-0.3.0: Testes automatizados
-0.4.0: Salvamento em nuvem e notificações do Firebase & Login com o Google
+- 0.2.0: Criação de screens de aviso de criação e exclusão de tarefas
+- 0.3.0: Testes automatizados
+- 0.4.0: Salvamento em nuvem e notificações do Firebase & Login com o Google
 
 ## 📃 Licença
 

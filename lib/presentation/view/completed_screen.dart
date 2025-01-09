@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:dodo/presentation/widgets/task/task_item.dart';
 import 'package:dodo/presentation/viewmodel/task_viewmodel.dart';
-import 'package:dodo/presentation/view/empty_screen.dart';
 
 class CompletedScreen extends StatelessWidget {
   const CompletedScreen({super.key});

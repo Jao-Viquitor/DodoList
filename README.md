@@ -1,4 +1,4 @@
-# dodo
+# DODO List
 
 Dodo List: Porque até os dodos eram mais organizados que você! 🦤
 
@@ -104,7 +104,7 @@ Entre em contato para dúvidas ou suporte: victorsantos.ft18@gmail.com.
 
 0.2.0: Criação de screens de aviso de criação e exclusão de tarefas
 0.3.0: Testes automatizados
-0.4.0: Salvamento em nuvem com o firebase e login com o google
+0.4.0: Salvamento em nuvem e notificações do Firebase & Login com o Google
 
 ## 📃 Licença
 
